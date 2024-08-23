@@ -1,7 +1,7 @@
 
 # YouTube Filter Extension
 
-YouTube Detox is a Chrome extension that helps users filter YouTube recommendations to match their specific interests. By showing only relevant videos, this tool aims to enhance productivity and minimize distractions.
+YouTube Filter is a Chrome extension that helps users filter YouTube recommendations to match their specific interests. By showing only relevant videos, this tool aims to enhance productivity and minimize distractions.
 ## Features
 
 - User Input: Users can enter their email and preferences via a popup interface.
@@ -35,7 +35,7 @@ YouTube Detox is a Chrome extension that helps users filter YouTube recommendati
 
 - Click the extension icon to open the popup.
 - Enter your email and preferences, then click "Save".
-- YouTube Detox will filter your YouTube recommendations based on your preferences.
+- YouTube Filter will filter your YouTube recommendations based on your preferences.
 
 
 ## Contributing
@@ -45,4 +45,4 @@ Contributions are welcome. Please fork the repository and submit pull requests
 
 #
 
-YouTube Detox helps you stay focused by showing only the videos you care about, making your YouTube experience more productive and less distracting.
+YouTube Filter helps you stay focused by showing only the videos you care about, making your YouTube experience more productive and less distracting.
